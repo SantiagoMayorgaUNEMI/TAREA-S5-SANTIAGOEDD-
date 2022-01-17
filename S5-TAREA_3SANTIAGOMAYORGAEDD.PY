@@ -1235,5 +1235,5 @@ class operaciones:
         imprimirlistado(socios_activos)
 
 res=operaciones()
-res.Cadena()
+
 
