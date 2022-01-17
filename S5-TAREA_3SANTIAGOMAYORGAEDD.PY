@@ -492,19 +492,6 @@ class operaciones:
                 print("Fecha incorrecta")
         print("Fin del programa") 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     # EJERCICIOS CON FOR:
 
     # llegar al doble  de un numero ingresado.
